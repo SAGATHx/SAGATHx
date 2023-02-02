@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @SAGATHx
-- 👀 I’m interested in Pepsi
-- 🌱 I'm in school now
-- 💞️ I want to collaborate with Pepsi
-- 📫 How to get to me? Do not even try
+Hello everyone, forgive me for my English, I want to say that Im just starting, dont angry, take care of me :3
 
 <!---
 SAGATHx/SAGATHx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
